@@ -14,8 +14,7 @@
     <RepositoryUrl>https://github.com/beritcarvalho/SecondPackage</RepositoryUrl>
     <PackageProjectUrl>https://github.com/beritcarvalho/SecondPackage</PackageProjectUrl>
   </PropertyGroup>
-  </PropertyGroup>
-
+  
   <ItemGroup>
     <PackageReference Include="MyCustomPrivatePackage" Version="1.0.0" />
   </ItemGroup>
