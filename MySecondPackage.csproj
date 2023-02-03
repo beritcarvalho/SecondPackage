@@ -1,9 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MyCustomPrivatePackageSecond</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Berit Carvalho</Authors>
+    <Company>beri.dev</Company>
+    <PackageDescription>Segundo pacote do estudo de Azure DevOps - Pacote GitHub</PackageDescription>
+    <Description>Segundo pacote do estudo de Azure DevOps - Pacote GitHub</Description>
+    <RepositoryUrl>https://github.com/beritcarvalho/SecondPackage</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/beritcarvalho/SecondPackage</PackageProjectUrl>
+  </PropertyGroup>
   </PropertyGroup>
 
   <ItemGroup>
